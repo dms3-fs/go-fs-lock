@@ -8,8 +8,8 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/ipfs/go-ipfs-util"
-	logging "github.com/ipfs/go-log"
+	"github.com/dms3-fs/go-fs-util"
+	logging "github.com/dms3-fs/go-log"
 	lock "go4.org/lock"
 )
 
